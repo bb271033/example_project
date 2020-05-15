@@ -1,24 +1,8 @@
 <?php
-//--------------------------------------
-// Clear@Core->config
-// Public Date : Apr, 28 2014
-// Programmer : khumphol tearmpin (khumphol@clear.in.th)
-// For : Clear Script Market
-// Website : http://market.clearprojects.in.th
-//--------------------------------------
 
-/** MySQL's config a constant value */
-
-// MySQL hostname
-define('DB_HOST', 'localhost');
-
-// MySQL database username
-define('DB_USERNAME', 'root');
-
-// MySQL database password
-define('DB_PASSWORD', 'root');
-
-// MySQL database name
-define('DB_NAME', 'student'); 
-
+/** MySQL's config constant value */
+define('DB_HOST', 'brns.com');
+define('DB_USERNAME', 'brns_test');
+define('DB_PASSWORD', 'Boom2710');
+define('DB_NAME', 'brns_test');
 ?>
